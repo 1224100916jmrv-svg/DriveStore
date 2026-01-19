@@ -1,5 +1,8 @@
-#DriveStore
+#
 Bienvenido a DriveStore
+
+Domina el Terreno de Juego con el calzado que marca la diferencias
+
 
 ![DriveStore](https://github.com/user-attachments/assets/8de4b6f3-e32b-4566-ac6b-a762c7238ff1)
 
@@ -12,4 +15,3 @@ DriveStore es una página web de comercio electrónico dedicada a la venta de te
 ## Valor Agregado del Framework:
 Al utilizar de React permite que DriveStore tenga una interfaz dinámica y reactiva donde los cambios en el catálogo, las tallas y el carrito de compras se actualizan en tiempo real la página.Para manejo del estado, la información del pedido se mantiene sincronizada en toda la aplicación, ofreciendo una experiencia más rápida, clara y eficiente en comparación con un sitio web tradicional.
 
-DriveStore
