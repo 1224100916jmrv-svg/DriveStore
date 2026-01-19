@@ -2,6 +2,7 @@
                                                        Bienvenido a DriveStore
 
                                    Domina el Terreno de Juego con el calzado que marca la diferencias
+                                                      Envío a todo Méxcio
 
 
 ![DriveStore](https://github.com/user-attachments/assets/8de4b6f3-e32b-4566-ac6b-a762c7238ff1)
@@ -28,6 +29,8 @@ Registrar los datos del usuario para completar y confirmar el pedido.
 
 
 ##Requerimientos No Funcionales (El "Cómo funciona")
+
+| Categoría |  |         |
 
 
 
