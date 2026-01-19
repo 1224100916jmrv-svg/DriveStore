@@ -15,3 +15,30 @@ DriveStore es una página web de comercio electrónico dedicada a la venta de te
 ## Valor Agregado del Framework:
 Al utilizar de React permite que DriveStore tenga una interfaz dinámica y reactiva donde los cambios en el catálogo, las tallas y el carrito de compras se actualizan en tiempo real la página.Para manejo del estado, la información del pedido se mantiene sincronizada en toda la aplicación, ofreciendo una experiencia más rápida, clara y eficiente en comparación con un sitio web tradicional.
 
+
+
+##Requerimientos Funcionales
+
+Visualizar el catálogo de tenis de fútbol con imágenes, precios y tallas disponibles.
+Filtrar los productos por marca, talla y tipo de superficie.
+Agregar y eliminar productos del carrito de compras de manera interactiva.
+Visualizar el resumen de la compra con el total y la información de envío.
+Registrar los datos del usuario para completar y confirmar el pedido.
+
+
+
+##Requerimientos No Funcionales (El "Cómo funciona")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
