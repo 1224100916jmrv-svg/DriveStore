@@ -13,7 +13,8 @@ Crear una pagina wed donde se pueda realizar compras para mi pagina wed llamada 
 ##Problematica
 DriveStore es una página web de comercio electrónico dedicada a la venta de tenis de fútbol retros y recientes. Su principal fuente de venta es mediantes redes sociales (facebook,messenger,instagram), ofreciendo una plataforma organizada, moderna y accesible para clientes de todo México.
 
-## Valor Agregado del Framework:
+## Valor Agregado del Framework
+
 Al utilizar de React permite que DriveStore tenga una interfaz dinámica y reactiva donde los cambios en el catálogo, las tallas y el carrito de compras se actualizan en tiempo real la página.Para manejo del estado, la información del pedido se mantiene sincronizada en toda la aplicación, ofreciendo una experiencia más rápida, clara y eficiente en comparación con un sitio web tradicional.
 
 
