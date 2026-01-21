@@ -32,13 +32,37 @@ Registrar los datos del usuario para completar y confirmar el pedido.
 
 
 
-<img width="783" height="352" alt="Captura de pantalla 2026-01-21 131116" src="https://github.com/user-attachments/assets/7bc647f6-201a-4986-b21f-2cdf64c619ce" />
+<img width="738" height="323" alt="Captura de pantalla 2026-01-21 133804" src="https://github.com/user-attachments/assets/23f00626-7bf8-45fc-9c4d-486a2d8c06bd" />
+
+Tecnologías y Herramientas del Ecosistema
+##Manejo de Estado Global
+
+Context API (React)
+Se utilizará Context API para manejar el estado global de la aplicación, como el carrito de compras y los productos seleccionados. Esta solución es adecuada por la escala del proyecto, ya que permite compartir el estado entre componentes sin necesidad de usar librerías externas más complejas como Redux.
+
+##Consumo de Datos
+
+Fetch API
+Los datos de los productos (tenis, precios, tallas y disponibilidad) se obtendrán mediante Fetch API desde un archivo JSON local o una API simulada. Esto permite una integración sencilla y suficiente para el alcance del proyecto.
+
+##Estilizado
+
+CSS con Flexbox y Grid / Tailwind CSS
+Se utilizará CSS moderno (Flexbox y Grid) o Tailwind CSS para crear una interfaz responsive, limpia y adaptable a dispositivos móviles y de escritorio.
+
+##Despliegue
+
+Vercel
+La aplicación será desplegada en Vercel, ya que ofrece una integración sencilla con proyectos en React y repositorios de GitHub, permitiendo un despliegue rápido y confiable.
+
+##Diagrama de Flujo
+
+<img width="1024" height="1536" alt="Diagrama del proceso de compra online" src="https://github.com/user-attachments/assets/004165e0-a6f0-4324-a7c2-dce56c102e08" />
 
 
+Primero, el usuario ingresa a la página DriveStore y puede visualizar el catálogo de tenis de fútbol disponible. Después, tiene la opción de filtrar los productos por marca, talla o tipo de superficie, lo que hace que el catálogo se actualice de manera automática sin necesidad de recargar la página.
 
-
-
-
+Una vez que el usuario encuentra el producto que desea, lo selecciona y hace clic en el botón “Agregar al carrito”. En ese momento, el estado global del carrito se actualiza, lo que provoca que el componente del carrito y el resumen de la compra se rendericen nuevamente. Finalmente, el usuario puede ver en tiempo real el total a pagar y la información del envío, obteniendo una experiencia de compra rápida, clara y fluida.
 
 
 
