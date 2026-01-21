@@ -35,6 +35,8 @@ Registrar los datos del usuario para completar y confirmar el pedido.
 <img width="738" height="323" alt="Captura de pantalla 2026-01-21 133804" src="https://github.com/user-attachments/assets/23f00626-7bf8-45fc-9c4d-486a2d8c06bd" />
 
 Tecnologías y Herramientas del Ecosistema
+
+
 ##Manejo de Estado Global
 
 Context API (React)
