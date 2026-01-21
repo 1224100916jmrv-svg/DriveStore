@@ -19,7 +19,6 @@ Al utilizar de React permite que DriveStore tenga una interfaz dinámica y react
 
 
 ##Requerimientos Funcionales
-
 Visualizar el catálogo de tenis de fútbol con imágenes, precios y tallas disponibles.
 Filtrar los productos por marca, talla y tipo de superficie.
 Agregar y eliminar productos del carrito de compras de manera interactiva.
