@@ -30,8 +30,9 @@ Registrar los datos del usuario para completar y confirmar el pedido.
 
 ##Requerimientos No Funcionales (El "Cómo funciona")
 
-| Categoría |  |         |
 
+
+<img width="783" height="352" alt="Captura de pantalla 2026-01-21 131116" src="https://github.com/user-attachments/assets/7bc647f6-201a-4986-b21f-2cdf64c619ce" />
 
 
 
